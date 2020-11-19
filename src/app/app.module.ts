@@ -12,6 +12,7 @@ import { MainViewComponent } from './main-view/main-view.component';
 import { ContainerComponent } from './container/container.component';
 import { TopNavComponent } from './top-nav/top-nav.component';
 import { ProjectSelectcomboComponent } from './project-selectcombo/project-selectcombo.component';
+import {CronJobsService} from './cron-jobs.service';
 
 const routes: Routes = [
   { path: 'MainView', component: MainViewComponent  },
@@ -39,7 +40,7 @@ const routes: Routes = [
     BrowserModule,
     RouterModule.forRoot(routes)
   ],
-  providers: [],
+  providers: [CronJobsService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

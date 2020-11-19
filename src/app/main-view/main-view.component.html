@@ -1,1 +1,21 @@
-<p>main-view works!</p>
+<h1> Latest KP/ time and schedule time for daily runs latest weather info </h1>
+
+<section>
+
+  <article class="plannedJobs">
+    <ul class="heroes">
+      <li *ngFor="let job of cronJobs">
+        <a routerLink="/detail/{{job.id}}">
+          <span class="badge">{{job.id}}</span> {{job.name}}
+        </a>
+        <button class="send job to queue" title="send job to queue" (click)="SendToQueue(job)">Send to queue</button>
+      </li>
+    </ul>
+
+  </article>
+
+  <article class="jobStatus">
+    <H1>article 2</H1>
+  </article>
+
+</section>

@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1kVlykvhRy0Pmlby2Z19i3xViUt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605793895481</updated>
-      <workItem from="1605793896521" duration="4553000" />
+      <workItem from="1605793896521" duration="6941000" />
     </task>
     <servers />
   </component>
@@ -70,25 +77,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="134" key="GridCell.Tab.0.bottom" timestamp="1605798129010">
+    <state width="757" height="119" key="GridCell.Tab.0.bottom" timestamp="1605802854728">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state width="1515" height="134" key="GridCell.Tab.0.bottom/0.0.1536.804@0.0.1536.804" timestamp="1605798129010" />
-    <state width="1515" height="134" key="GridCell.Tab.0.center" timestamp="1605798129010">
+    <state width="757" height="119" key="GridCell.Tab.0.bottom/0.0.1536.804@0.0.1536.804" timestamp="1605802854728" />
+    <state width="757" height="119" key="GridCell.Tab.0.center" timestamp="1605802854728">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state width="1515" height="134" key="GridCell.Tab.0.center/0.0.1536.804@0.0.1536.804" timestamp="1605798129010" />
-    <state width="1515" height="134" key="GridCell.Tab.0.left" timestamp="1605798129009">
+    <state width="757" height="119" key="GridCell.Tab.0.center/0.0.1536.804@0.0.1536.804" timestamp="1605802854728" />
+    <state width="757" height="119" key="GridCell.Tab.0.left" timestamp="1605802854728">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state width="1515" height="134" key="GridCell.Tab.0.left/0.0.1536.804@0.0.1536.804" timestamp="1605798129009" />
-    <state width="1515" height="134" key="GridCell.Tab.0.right" timestamp="1605798129010">
+    <state width="757" height="119" key="GridCell.Tab.0.left/0.0.1536.804@0.0.1536.804" timestamp="1605802854728" />
+    <state width="757" height="119" key="GridCell.Tab.0.right" timestamp="1605802854728">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state width="1515" height="134" key="GridCell.Tab.0.right/0.0.1536.804@0.0.1536.804" timestamp="1605798129010" />
-    <state x="632" y="288" width="348" height="298" key="org.angular.cli.generate" timestamp="1605796607260">
+    <state width="757" height="119" key="GridCell.Tab.0.right/0.0.1536.804@0.0.1536.804" timestamp="1605802854728" />
+    <state x="632" y="288" width="348" height="298" key="org.angular.cli.generate" timestamp="1605802848740">
       <screen x="0" y="0" width="1536" height="804" />
     </state>
-    <state x="632" y="288" width="348" height="298" key="org.angular.cli.generate/0.0.1536.804@0.0.1536.804" timestamp="1605796607260" />
+    <state x="632" y="288" width="348" height="298" key="org.angular.cli.generate/0.0.1536.804@0.0.1536.804" timestamp="1605802848740" />
   </component>
 </project>
