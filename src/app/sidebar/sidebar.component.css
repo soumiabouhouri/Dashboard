@@ -1,0 +1,10 @@
+/* Set gray background color and 100% height */
+.sidenav {
+  padding-top: 20px;
+  background-color: #f1f1f1;
+  height: 100%;
+  width: 20%;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 20px;
+}
